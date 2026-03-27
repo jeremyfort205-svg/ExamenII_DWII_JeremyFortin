@@ -1,0 +1,131 @@
+:root{
+	--f7-theme-color:#000;
+	--f7-navbar-bg-color: #fff; /*navbar*/
+	--f7-navbar-link-color: #000; /*navbar link*/
+	--f7-navbar-text-color:#000;
+	--f7-bars-bg-color:#fff;/*toolbar*/
+	--f7-tabbar-link-inactive-color: #333; /*link toolbar*/
+	--f7-block-margin-vertical:20px;
+	--f7-card-footer-border-color:transparent; 
+}
+
+.img-fluid{
+	max-width: 100%;
+}
+
+
+h1,h2,h3,h4,h5,h6{
+	margin-top: 5px;
+}
+
+
+.panel_icon{
+color: white;
+background-color: #000;
+border-radius: 5px;
+font-size:20px;
+padding: 5px;
+}
+
+.mail_color{
+	color: rgb(167, 167, 167);
+}
+
+.margin_card{
+margin: 15px;
+border-radius: 10px;
+}
+
+.pfp_border{
+border-radius: 5px;
+}
+
+.cards_space{
+	margin-bottom: 50px;
+}
+
+.text_color{
+color: black;
+font-size: larger;
+font-weight: 600;
+}
+
+.seeall{
+	color: #333;
+	font-size: small;
+}
+
+.primera_sec{
+	margin-top: -10px;
+}
+
+.text_card{
+	margin-top: -10px;
+	text-align: center;
+}
+
+.tc_secondary{
+color: #333;
+margin-top: -15px;
+font-size:xx-small;
+}
+
+.money_text{
+font-size: smaller;
+font-weight:700;
+}
+
+.money_sign{
+font-size: smaller;
+font-weight:800;
+}
+
+.margin_card_dos{
+margin: 20px;
+border-radius: 10px;
+}
+
+.add_icon{
+font-size: 15px;
+margin-bottom: 20px;
+}
+
+.pizzas{
+	background-image: url("..//img/pizzas.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+	padding-bottom: 20px;
+}
+
+.button_order{
+	font-weight: 800;
+}
+
+.free_pizza{
+	color: red;
+	font-weight: 900;
+}
+
+.free_pizza_dos{
+	color:#000;
+	font-weight: 900;
+
+}
+
+.seccion_uno{
+	margin-top: -40px;
+}
+
+.imagen_bebida{
+	margin-top: 10px;
+}
+
+.imagen_pizza{
+	margin-top: 30px;
+}
+
+.add_button{
+margin-top: 40px;
+margin-left: 20px;
+}
